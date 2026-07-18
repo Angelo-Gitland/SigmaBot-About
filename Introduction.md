@@ -24,3 +24,4 @@ To install/Add to your app/servers, Open the link: https://discord.com/oauth2/au
 
 To view the list of commands go [Here](https://github.com/Angelo-Gitland/SigmaBot-About/tree/main/commands)
 
+**Add SigmaBot Today!**
