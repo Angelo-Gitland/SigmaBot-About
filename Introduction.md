@@ -22,5 +22,5 @@ To install/Add to your app/servers, Open the link: https://discord.com/oauth2/au
 
 # <img width="30" height="30" alt="images (3)" src="https://github.com/user-attachments/assets/6212198c-e218-418f-9b33-493d44d632ec" /> Commands
 
-To view the list of commands go [Here]()
+To view the list of commands go [Here](https://github.com/Angelo-Gitland/SigmaBot-About/tree/main/commands)
 
