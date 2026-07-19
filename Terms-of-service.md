@@ -1,4 +1,4 @@
-# ⚠️ Terms Of Service
+## ⚠️ Terms Of Service
 
 By using SigmaBot, you agree to the following terms:
 
@@ -17,4 +17,4 @@ By using SigmaBot, you agree to the following terms:
 - [x] Breaking our rules may result in a server penalties.
 
 ## Contact
-- [x] For questions or issues, please contact or message us in our official discord server: https://discord.gg/Zame2JAGDr
+- [x] For questions or issues, please contact or message us in our official discord server: [HERE](https://discord.gg/Zame2JAGDr)
