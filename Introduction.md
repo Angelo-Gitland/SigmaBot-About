@@ -17,8 +17,7 @@ Adding SigmaBot to your apps or servers, is a great way to manage your server & 
 
 # <img width="30" height="30" alt="images (4)" src="https://github.com/user-attachments/assets/52edcc7a-c1ff-4df0-93f1-4870318a3d3d" /> Installation
 
-To install/Add to your app/servers, Open the link: https://discord.com/oauth2/authorize?client_id=1508136617251176579&permissions=9521875909879&integration_type=0&scope=bot+applications.commands
-
+To install/Add to your app/servers, Open the link: https://discord.com/oauth2/authorize?client_id=1508136617251176579&permissions=7892281516359415&integration_type=0&scope=bot+applications.commands
 
 # <img width="30" height="30" alt="images (3)" src="https://github.com/user-attachments/assets/6212198c-e218-418f-9b33-493d44d632ec" /> Commands
 
