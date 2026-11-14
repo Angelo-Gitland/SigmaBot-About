@@ -1,4 +1,4 @@
-| <img src="https://github.com/user-attachments/assets/bf2083c1-e48e-49f6-9ad7-91740a32c2b1" width="120"> | Introducing SigmaBot \| The Rarest Discord Bot |
+| <img width="195" height="259" alt="sigma" src="https://github.com/user-attachments/assets/54bc6383-adc8-476c-90df-857e8e14ccf2" /> | Introducing SigmaBot \| The Rarest Discord Bot |
 |---|---|
 
 *SigmaBot - The most rarest discord bot that can bypass-links, decode, screenshot websites, beautify images, and many many more!*
